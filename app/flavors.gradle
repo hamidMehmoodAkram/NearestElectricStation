@@ -1,0 +1,14 @@
+android {
+
+    flavorDimensions "env"
+    productFlavors {
+        staging {
+            buildConfigField "String", "SERVER_URL", '"https://test.com"'
+            dimension "env"
+        }
+        production {
+            buildConfigField "String", "SERVER_URL", '"https://test.com"'
+            dimension "env"
+        }
+    }
+}

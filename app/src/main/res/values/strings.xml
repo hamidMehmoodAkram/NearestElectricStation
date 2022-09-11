@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LiveCoding</string>
+    <string name="url_not_responding">Resource at given url is not responding.</string>
+    <string name="internet_issue_message">It seems you have a connection issue, please try again later.</string>
+    <string name="server_not_responding">Server is not responding at the moment, please try again later.</string>
+    <string name="no_data_found">No data found against requested resource.</string>
+    <string name="internal_server_error">Something went wrong at our end, please try again later.</string>
+    <string name="bad_gateway_message">We are having trouble reaching server, please try again later.</string>
+    <string name="unexpected_error">Something unexpected happened, please try again later.</string>
+    <!-- Preference Titles -->
+    <string name="range_selector">Area Range Selector</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_near_by_title">Sync Near by Locations</string>
+    <string name="attachment_summary_on">Automatically sync data is on </string>
+    <string name="sync_title">Sync</string>
+    <string name="attachment_summary_off">Automatically sync data is off</string>
+</resources>
